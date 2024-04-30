@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // const baseURL = 'http://65.1.244.186:7777/api';
-const baseURL = 'http://localhost:7777/api';
+const baseURL = 'http://13.201.244.71:8080/api';
 const axiosInstance = axios.create({
     baseURL,
 });
